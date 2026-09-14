@@ -84,10 +84,10 @@ to something real that happened to you this week, and post it.
 
 ---
 
-### Draft C — The cold outreach framework (meta, teaches your own method)
+### Draft C (FINAL) — The cold outreach framework, with a real example
 
 > My LinkedIn cold outreach got me 3 interviews a week. Here's the exact
-> framework.
+> framework — and a real message I sent this week.
 >
 > Most outreach fails for one reason: we forget we're talking to a stranger.
 >
@@ -96,35 +96,33 @@ to something real that happened to you this week, and post it.
 > adds to the pile.
 >
 > The only way to stand out is to show them, not tell them. Here's the
-> 3-part structure I use:
+> 3-part structure, and an actual message that used it:
 >
-> **1. The hook**
-> One line that isn't about you. Something specific to them — a post they
-> wrote, a move their company made, a problem people in their seat actually
-> have. If it could be copy-pasted to anyone, rewrite it.
+> Hey [Name],
+> I spent about 90 mins today pretending I worked at [Their Company] and
+> looking for companies I'd go after if I were on your team. Found a few
+> that caught my eye. Would you be interested in seeing them?
 >
-> **2. Proof + offer**
-> Show your research in one sentence, then hand them something useful with
-> zero strings attached — a template, a teardown, a quick audit, a resource.
-> This is the part that actually builds trust. (You can steal mine — comment
-> "template" and I'll send it over.)
+> **1. The hook** → "I spent 90 mins pretending I worked at [Company]..."
+> Not a compliment, not a pitch. A weird, specific thing that makes them
+> curious enough to keep reading.
 >
-> **3. The soft ask**
-> No "let's hop on a call." No pressure. Just enough of an opening for them
-> to say yes easily:
-> → "Worth a look?"
-> → "Want these?"
-> → "Should I send?"
+> **2. Proof + offer** → "Looking for companies I'd go after if I were on
+> your team. Found a few that caught my eye."
+> This is where you show the work, not just claim it. One line of effort
+> beats a paragraph of flattery.
 >
-> That's it. Hook, value, soft ask. No hard pitch anywhere in it — and
-> that's exactly why it works.
+> **3. The soft ask** → "Would you be interested in seeing them?"
+> No call request. No pressure. Just an easy door to walk through.
+>
+> Hook, proof, soft ask. Every message I send follows this — and it's why
+> people actually reply instead of ignoring it.
+>
+> Want to see more of these? Drop a 👋 below and I'll share.
 
-Open decisions before posting:
-- Turn the CTA into a comment-to-unlock mechanic ("comment 'template' and
-  I'll DM it") to drive engagement, or keep it as a pure thought-leadership
-  post with no ask?
-- Need the actual lead magnet/template written and ready to send the moment
-  someone responds?
+Status: ready to post. Paired graphic: "Cold Outreach Framework" square card
+(published as a Claude Artifact — see chat for the link), steps updated to
+match this version.
 
 ## How to pick fast when you're stuck
 
