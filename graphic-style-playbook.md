@@ -46,6 +46,16 @@ per slide. A structurally different post format, not just a graphic style.
 Best for: multi-part frameworks, and posts optimizing for LinkedIn's
 swipe/dwell-time engagement rather than a single glance.
 
+### G — Signature Voice Bubble
+A punchy, opinionated first-person line (a "hot take," not a framework
+explanation) inside a bold speech bubble, paired with a small recurring
+mark — an initial, a shape, a consistent color — that shows up the same way
+on every post. Best for: building personal recognition over time. The value
+isn't the individual post, it's repetition — if the mark and voice stay
+consistent, people start recognizing "this is her post" before reading a
+word. Needs the least explaining and the most personality; works best when
+the line is genuinely opinionated, not a restated fact.
+
 ## How to use this next time
 
 1. Read the post's actual content and ask: does it live or die on one line
