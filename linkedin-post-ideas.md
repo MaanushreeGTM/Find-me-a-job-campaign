@@ -113,7 +113,11 @@ to something real that happened to you this week, and post it.
 > beats a paragraph of flattery.
 >
 > **Soft ask** → "Would you be interested in seeing them?"
-> No call request. No pressure. Just an easy door to walk through.
+> No call request. No pressure. Just an easy door to walk through. A few
+> other versions that do the same job:
+> → "Worth a look?"
+> → "Want these?"
+> → "Should I send?"
 >
 > Hook, proof, soft ask. Every message I send follows this — and it's why
 > people actually reply instead of ignoring it.
