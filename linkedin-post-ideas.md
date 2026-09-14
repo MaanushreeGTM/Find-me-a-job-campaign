@@ -84,10 +84,10 @@ to something real that happened to you this week, and post it.
 
 ---
 
-### Draft C (FINAL) — The cold outreach framework, with a real example
+### Draft C (FINAL) — The real message, annotated
 
-> My LinkedIn cold outreach got me 3 interviews a week. Here's the exact
-> framework — and a real message I sent this week.
+> This 41-word message gets me 3 interviews a week. Here's exactly why it
+> works, line by line.
 >
 > Most outreach fails for one reason: we forget we're talking to a stranger.
 >
@@ -96,23 +96,23 @@ to something real that happened to you this week, and post it.
 > adds to the pile.
 >
 > The only way to stand out is to show them, not tell them. Here's the
-> 3-part structure, and an actual message that used it:
+> actual message I sent this week:
 >
 > Hey [Name],
 > I spent about 90 mins today pretending I worked at [Their Company] and
 > looking for companies I'd go after if I were on your team. Found a few
 > that caught my eye. Would you be interested in seeing them?
 >
-> **1. The hook** → "I spent 90 mins pretending I worked at [Company]..."
+> **Hook** → "I spent about 90 mins today pretending I worked at [Their
+> Company] and looking for companies I'd go after if I were on your team."
 > Not a compliment, not a pitch. A weird, specific thing that makes them
 > curious enough to keep reading.
 >
-> **2. Proof + offer** → "Looking for companies I'd go after if I were on
-> your team. Found a few that caught my eye."
+> **Proof + offer** → "Found a few that caught my eye."
 > This is where you show the work, not just claim it. One line of effort
 > beats a paragraph of flattery.
 >
-> **3. The soft ask** → "Would you be interested in seeing them?"
+> **Soft ask** → "Would you be interested in seeing them?"
 > No call request. No pressure. Just an easy door to walk through.
 >
 > Hook, proof, soft ask. Every message I send follows this — and it's why
@@ -121,8 +121,9 @@ to something real that happened to you this week, and post it.
 > Want to see more of these? Drop a 👋 below and I'll share.
 
 Status: ready to post. Paired graphic: "Cold Outreach Framework" square card
-(published as a Claude Artifact — see chat for the link), steps updated to
-match this version.
+(published as a Claude Artifact — see chat for the link) — now shows the
+real message itself with Hook / Proof + Offer / Soft Ask as side labels on
+each line, matching this post exactly.
 
 ## How to pick fast when you're stuck
 
