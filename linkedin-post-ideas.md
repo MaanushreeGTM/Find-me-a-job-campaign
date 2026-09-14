@@ -84,6 +84,48 @@ to something real that happened to you this week, and post it.
 
 ---
 
+### Draft C — The cold outreach framework (meta, teaches your own method)
+
+> My LinkedIn cold outreach got me 3 interviews a week. Here's the exact
+> framework.
+>
+> Most outreach fails for one reason: we forget we're talking to a stranger.
+>
+> They don't know you. They don't know if you can actually help them. And
+> "I'm interested in this role, here's my resume" doesn't fix that — it just
+> adds to the pile.
+>
+> The only way to stand out is to show them, not tell them. Here's the
+> 3-part structure I use:
+>
+> **1. The hook**
+> One line that isn't about you. Something specific to them — a post they
+> wrote, a move their company made, a problem people in their seat actually
+> have. If it could be copy-pasted to anyone, rewrite it.
+>
+> **2. Proof + offer**
+> Show your research in one sentence, then hand them something useful with
+> zero strings attached — a template, a teardown, a quick audit, a resource.
+> This is the part that actually builds trust. (You can steal mine — comment
+> "template" and I'll send it over.)
+>
+> **3. The soft ask**
+> No "let's hop on a call." No pressure. Just enough of an opening for them
+> to say yes easily:
+> → "Worth a look?"
+> → "Want these?"
+> → "Should I send?"
+>
+> That's it. Hook, value, soft ask. No hard pitch anywhere in it — and
+> that's exactly why it works.
+
+Open decisions before posting:
+- Turn the CTA into a comment-to-unlock mechanic ("comment 'template' and
+  I'll DM it") to drive engagement, or keep it as a pure thought-leadership
+  post with no ask?
+- Need the actual lead magnet/template written and ready to send the moment
+  someone responds?
+
 ## How to pick fast when you're stuck
 
 1. Look back at the last thing you built, fixed, or were annoyed by this week.
