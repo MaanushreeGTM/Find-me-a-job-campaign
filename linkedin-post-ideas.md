@@ -156,25 +156,22 @@ each line, matching this post exactly.
 > That's the gap. And it won't stay open for long — the second everyone
 > catches on, it stops working like this.
 >
-> There's a tool that lets me record the voice note once, and it
-> personalizes for every single lead automatically. Not naming it here —
-> comment "Voice Notes" and I'll send it to you, while it's still worth
-> sending.
+> I use HeyReach to record the voice note once — it personalizes it
+> automatically for every single lead.
+>
+> Worth a try if you're doing outbound at any real volume.
 
 Notes:
 - Voice note is the FIRST message, not a follow-up to a text — this is the
   whole point of the pattern interrupt, don't blur it.
-- Tool (HeyReach) is deliberately withheld from the post body — CTA is a
-  comment-gate ("comment 'Voice Notes'") combined with FOMO/scarcity
-  framing (CTA options #1 and #5 from the brainstorm) rather than naming
-  it outright.
-- Image: a real cutout photo of the user + a speech-bubble overlay reading
-  "2x your response rate by using this tool" / "Comment 'Voice Notes'" —
-  chosen over a designed graphic because the real face plus an exact-match
-  CTA builds more trust for a comment-gate ask than an abstract mockup
-  does. This is the strongest live example yet of the "Signature Voice
-  Bubble" style from the playbook (real photo > illustrated version).
-- Status: ready to post, pending final gut-check from the user.
+- HeyReach is named directly (user is part of their creator program) —
+  no comment-gate, no withholding. Straightforward mention, no disclosure
+  line added per user's call.
+- Image: a real cutout photo of the user + a speech-bubble overlay. If
+  keeping the "Comment 'Voice Notes'" text on the image, update it to
+  match this version (e.g. "I use this tool to 2x my response rate") since
+  the post no longer gates the name behind a comment.
+- Status: ready to post.
 
 ## How to pick fast when you're stuck
 
