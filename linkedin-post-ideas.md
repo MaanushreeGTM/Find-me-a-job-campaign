@@ -129,6 +129,45 @@ Status: ready to post. Paired graphic: "Cold Outreach Framework" square card
 real message itself with Hook / Proof + Offer / Soft Ask as side labels on
 each line, matching this post exactly.
 
+### Draft D — Voice notes as a pattern interrupt (comment-gated CTA)
+
+> We just 2x'd our LinkedIn response rate. 🔥
+>
+> Just by doing this —
+>
+> STOPPED sending connection requests with a message attached.
+>
+> If you're doing this too, please stop — for your own sake.
+>
+> They read half your message, see you're asking for something, and ignore it.
+>
+> Next — the golden sauce:
+>
+> Pattern interrupts.
+>
+> There are a lot of ways to do this, but the most effective one I've found:
+> sending a voice note as your *first* message. Not a follow-up — the first
+> thing they ever get from you.
+>
+> Think about it — how many voice notes do you get on LinkedIn?
+>
+> Literally never.
+>
+> That's the gap. And it won't stay open for long — the second everyone
+> catches on, it stops working like this.
+>
+> There's a tool that lets me record the voice note once, and it
+> personalizes for every single lead automatically. Not naming it here —
+> comment "🎙️" and I'll send it to you, while it's still worth sending.
+
+Notes:
+- Voice note is the FIRST message, not a follow-up to a text — this is the
+  whole point of the pattern interrupt, don't blur it.
+- Tool (HeyReach) is deliberately withheld from the post body — CTA is a
+  comment-gate ("comment 🎙️") combined with FOMO/scarcity framing (CTA
+  options #1 and #5 from the brainstorm) rather than naming it outright.
+- Status: ready to post, pending final gut-check from the user.
+
 ## How to pick fast when you're stuck
 
 1. Look back at the last thing you built, fixed, or were annoyed by this week.
