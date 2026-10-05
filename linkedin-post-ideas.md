@@ -158,14 +158,22 @@ each line, matching this post exactly.
 >
 > There's a tool that lets me record the voice note once, and it
 > personalizes for every single lead automatically. Not naming it here —
-> comment "🎙️" and I'll send it to you, while it's still worth sending.
+> comment "Voice Notes" and I'll send it to you, while it's still worth
+> sending.
 
 Notes:
 - Voice note is the FIRST message, not a follow-up to a text — this is the
   whole point of the pattern interrupt, don't blur it.
 - Tool (HeyReach) is deliberately withheld from the post body — CTA is a
-  comment-gate ("comment 🎙️") combined with FOMO/scarcity framing (CTA
-  options #1 and #5 from the brainstorm) rather than naming it outright.
+  comment-gate ("comment 'Voice Notes'") combined with FOMO/scarcity
+  framing (CTA options #1 and #5 from the brainstorm) rather than naming
+  it outright.
+- Image: a real cutout photo of the user + a speech-bubble overlay reading
+  "2x your response rate by using this tool" / "Comment 'Voice Notes'" —
+  chosen over a designed graphic because the real face plus an exact-match
+  CTA builds more trust for a comment-gate ask than an abstract mockup
+  does. This is the strongest live example yet of the "Signature Voice
+  Bubble" style from the playbook (real photo > illustrated version).
 - Status: ready to post, pending final gut-check from the user.
 
 ## How to pick fast when you're stuck
